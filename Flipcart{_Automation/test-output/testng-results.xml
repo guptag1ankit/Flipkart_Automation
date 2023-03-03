@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-03T14:54:02 IST" name="Default suite" finished-at="2023-03-03T14:54:14 IST" duration-ms="12309">
+    <groups>
+    </groups>
+    <test started-at="2023-03-03T14:54:02 IST" name="Default test" finished-at="2023-03-03T14:54:14 IST" duration-ms="12309">
+      <class name="Test_package.Electronics_menu_test">
+        <test-method is-config="true" signature="getLaunch_url()[pri:0, instance:Test_package.Electronics_menu_test@4f209819]" started-at="2023-03-03T14:54:02 IST" name="getLaunch_url" finished-at="2023-03-03T14:54:06 IST" duration-ms="4260" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getLaunch_url -->
+        <test-method signature="ListOfMobiles()[pri:0, instance:Test_package.Electronics_menu_test@4f209819]" started-at="2023-03-03T14:54:06 IST" name="ListOfMobiles" finished-at="2023-03-03T14:54:14 IST" duration-ms="7961" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ListOfMobiles -->
+      </class> <!-- Test_package.Electronics_menu_test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
